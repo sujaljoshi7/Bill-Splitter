@@ -24,7 +24,7 @@ This script helps you calculate the total bill including the tip and then splits
 
 2. **Ensure you have Python installed:**
 
-    This script requires Python 3.x. You can download it from [python.org](https://www.python.org/).
+    This script requires Python 3. You can download it from [python.org](https://www.python.org/).
 
 3. **Install the required modules:**
 
